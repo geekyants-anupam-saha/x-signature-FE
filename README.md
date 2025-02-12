@@ -11,6 +11,5 @@ git clone git@github.com:geekyants-anupam-saha/x-signature-FE.git
 npm install
 Please make sure expo is installed since it is a expo based app.
 
-# To start the development server and storybook in development mode
-yarn web
+# To start the development server
 ```
