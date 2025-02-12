@@ -5,7 +5,7 @@
 # Clone the repository
 
 ## Using SSH
-git clone git@github.com:TyfoneInc/nao-web.git
+git clone git@github.com:geekyants-anupam-saha/x-signature-FE.git
 
 # Install dependencies
 npm install
